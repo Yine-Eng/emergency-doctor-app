@@ -36,4 +36,25 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm
+
 app-example
